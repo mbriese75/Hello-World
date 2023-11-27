@@ -2,8 +2,8 @@
 - 👀 I’m interested in Networking.
 - 🌱 I’m currently learning DevOps fundamentals and key aspects of security, networking, cloud computing, and database 
 managment.
-- 💞️ I’m looking to collaborate.
-- 📫 How to reach me (510) 961-9683
+- 💞️ I’m looking to collaborate on some fancy coding.
+- 📫 How to reach me.. Text (510)961-9683.
 
 <!---
 mbriese75/mbriese75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
