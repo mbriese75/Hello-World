@@ -7,6 +7,11 @@ management.
 - 💞️ I’m looking to collaborate on some fancy coding.
 - 📱 How to reach me...stretch out your fingers.
 - 🛠️ Tools & Technology
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original-wordmark.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+          
 - 🗣️ Languages 
 - 🪧 Blog Posts (coming soon)
 - Find me elsewhere, like the beach 🏖️, mountains 🏞️, or gardening 🌿
