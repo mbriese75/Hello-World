@@ -6,9 +6,9 @@ managment.
 - 📓 I plan to complete a DevOps course from Tekperfect by February 2024.
 - 💞️ I’m looking to collaborate on some fancy coding.
 - 📱 How to reach me...stretch out your fingers.
-- Tools & Technology 
-- Languages 
-- Blog Posts (coming soon)
+- 🛠️ Tools & Technology
+- 🗣️ Languages 
+- 🪧 Blog Posts (coming soon)
 - Find me elsewhere, like the beach 🏖️, mountains 🏞️, or gardening 🌿
 - - - <!---
 mbriese75/mbriese75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
