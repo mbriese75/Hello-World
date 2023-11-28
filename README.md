@@ -10,7 +10,3 @@ management.
 - 🗣️ Languages 
 - 🪧 Blog Posts (coming soon)
 - Find me elsewhere, like the beach 🏖️, mountains 🏞️, or gardening 🌿
----
-mbriese75/mbriese75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
