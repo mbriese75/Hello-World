@@ -17,7 +17,7 @@ Currently in a twelve-week, online course focusing on DevOps fundamentals and ke
 <a href="https://www.github.com/mbriese75" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mbriese75?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
+### Basic Skills
 
 
 <p align="left">
