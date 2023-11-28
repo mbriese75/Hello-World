@@ -2,7 +2,7 @@
 - 👋 Hi, a little bit about Me.
 - 👀 I’m interested in Networking.
 - 🌱 I’m currently learning DevOps fundamentals and key aspects of security, networking, cloud computing, and database 
-managment.
+management.
 - 📓 I plan to complete a DevOps course from Tekperfect by February 2024.
 - 💞️ I’m looking to collaborate on some fancy coding.
 - 📱 How to reach me...stretch out your fingers.
