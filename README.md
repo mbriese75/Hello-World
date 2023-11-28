@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT Support Specialist
 ---------------------
 
-more to come
+Currently in a twelve-week, online course focusing on DevOps fundamentals and key aspects of security, networking, cloud computing, and database managment.
 
 * 🌍  I'm based in Hercules, Ca.
 * ✉️  You can contact me at [mbriesejr@gmail.com](mailto:mbriesejr@gmail.com)
