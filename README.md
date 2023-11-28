@@ -10,7 +10,7 @@ Currently in a twelve-week, online course focusing on DevOps fundamentals and ke
 * 🌍  I'm based in Hercules, Ca.
 * ✉️  You can contact me at [mbriesejr@gmail.com](mailto:mbriesejr@gmail.com)
 * 🚀  I'm currently working on [Completing a DevOps Course through Tekperfect](http://tekperfect.com)
-* 🧠  I'm learning DevOps, Ubuntu, MySQL, AWS, Windows management, Python,Docker, Postgres, Java
+* 🧠  I'm learning DevOps, Ubuntu, MySQL, AWS, Windows management, Python, Docker, Postgres, Java
 * 🤝  I'm open to collaborating on very interesting projects that have to do with IT accessibility to the underserved.
 * ⚡  Find me elsewhere, like the beach 🏖️, mountains 🏞️, or gardening 🌿
 
